@@ -1,0 +1,101 @@
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\bin\Debug\net5.0\goLaundryWebAPI.exe
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\bin\Debug\net5.0\goLaundryWebAPI.deps.json
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\bin\Debug\net5.0\goLaundryWebAPI.runtimeconfig.json
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\bin\Debug\net5.0\goLaundryWebAPI.runtimeconfig.dev.json
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\bin\Debug\net5.0\goLaundryWebAPI.dll
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\bin\Debug\net5.0\ref\goLaundryWebAPI.dll
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\bin\Debug\net5.0\goLaundryWebAPI.pdb
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\obj\Debug\net5.0\goLaundryWebAPI.csproj.AssemblyReference.cache
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\obj\Debug\net5.0\goLaundryWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\obj\Debug\net5.0\goLaundryWebAPI.AssemblyInfoInputs.cache
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\obj\Debug\net5.0\goLaundryWebAPI.AssemblyInfo.cs
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\obj\Debug\net5.0\goLaundryWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\obj\Debug\net5.0\goLaundryWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\obj\Debug\net5.0\staticwebassets\goLaundryWebAPI.StaticWebAssets.Manifest.cache
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\obj\Debug\net5.0\staticwebassets\goLaundryWebAPI.StaticWebAssets.xml
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\obj\Debug\net5.0\scopedcss\bundle\goLaundryWebAPI.styles.css
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\obj\Debug\net5.0\goLaundryWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\obj\Debug\net5.0\goLaundryWebAPI.dll
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\obj\Debug\net5.0\ref\goLaundryWebAPI.dll
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\obj\Debug\net5.0\goLaundryWebAPI.pdb
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\obj\Debug\net5.0\goLaundryWebAPI.genruntimeconfig.cache
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\obj\Debug\net5.0\goLaundryWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\bin\Debug\net5.0\System.Web.Http.dll
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\bin\Debug\net5.0\NSwag.Annotations.dll
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\bin\Debug\net5.0\nlog.config
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\bin\Debug\net5.0\NLog.dll
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+C:\Users\Muhammad Mirza\Documents\dev\goLaundryWebAPI\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\dev\golaubdrywebapi\bin\Debug\net5.0\appsettings.Development.json
+D:\dev\golaubdrywebapi\bin\Debug\net5.0\appsettings.json
+D:\dev\golaubdrywebapi\bin\Debug\net5.0\nlog.config
+D:\dev\golaubdrywebapi\bin\Debug\net5.0\goLaundryWebAPI.StaticWebAssets.xml
+D:\dev\golaubdrywebapi\bin\Debug\net5.0\goLaundryWebAPI.exe
+D:\dev\golaubdrywebapi\bin\Debug\net5.0\goLaundryWebAPI.deps.json
+D:\dev\golaubdrywebapi\bin\Debug\net5.0\goLaundryWebAPI.runtimeconfig.json
+D:\dev\golaubdrywebapi\bin\Debug\net5.0\goLaundryWebAPI.runtimeconfig.dev.json
+D:\dev\golaubdrywebapi\bin\Debug\net5.0\goLaundryWebAPI.dll
+D:\dev\golaubdrywebapi\bin\Debug\net5.0\goLaundryWebAPI.pdb
+D:\dev\golaubdrywebapi\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+D:\dev\golaubdrywebapi\bin\Debug\net5.0\System.Web.Http.dll
+D:\dev\golaubdrywebapi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\dev\golaubdrywebapi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\dev\golaubdrywebapi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\dev\golaubdrywebapi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\dev\golaubdrywebapi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\dev\golaubdrywebapi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\dev\golaubdrywebapi\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\dev\golaubdrywebapi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\dev\golaubdrywebapi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\dev\golaubdrywebapi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\dev\golaubdrywebapi\bin\Debug\net5.0\NLog.dll
+D:\dev\golaubdrywebapi\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+D:\dev\golaubdrywebapi\bin\Debug\net5.0\NSwag.Annotations.dll
+D:\dev\golaubdrywebapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\dev\golaubdrywebapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\dev\golaubdrywebapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\dev\golaubdrywebapi\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\dev\golaubdrywebapi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\dev\golaubdrywebapi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\dev\golaubdrywebapi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\dev\golaubdrywebapi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\dev\golaubdrywebapi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\dev\golaubdrywebapi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\dev\golaubdrywebapi\obj\Debug\net5.0\goLaundryWebAPI.csproj.AssemblyReference.cache
+D:\dev\golaubdrywebapi\obj\Debug\net5.0\goLaundryWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\golaubdrywebapi\obj\Debug\net5.0\goLaundryWebAPI.AssemblyInfoInputs.cache
+D:\dev\golaubdrywebapi\obj\Debug\net5.0\goLaundryWebAPI.AssemblyInfo.cs
+D:\dev\golaubdrywebapi\obj\Debug\net5.0\goLaundryWebAPI.csproj.CoreCompileInputs.cache
+D:\dev\golaubdrywebapi\obj\Debug\net5.0\goLaundryWebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\dev\golaubdrywebapi\obj\Debug\net5.0\goLaundryWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\dev\golaubdrywebapi\obj\Debug\net5.0\scopedcss\bundle\goLaundryWebAPI.styles.css
+D:\dev\golaubdrywebapi\obj\Debug\net5.0\staticwebassets\goLaundryWebAPI.StaticWebAssets.Manifest.cache
+D:\dev\golaubdrywebapi\obj\Debug\net5.0\goLaundryWebAPI.RazorTargetAssemblyInfo.cache
+D:\dev\golaubdrywebapi\obj\Debug\net5.0\goLaundryWebAPI.csproj.CopyComplete
+D:\dev\golaubdrywebapi\obj\Debug\net5.0\goLaundryWebAPI.dll
+D:\dev\golaubdrywebapi\obj\Debug\net5.0\refint\goLaundryWebAPI.dll
+D:\dev\golaubdrywebapi\obj\Debug\net5.0\goLaundryWebAPI.pdb
+D:\dev\golaubdrywebapi\obj\Debug\net5.0\goLaundryWebAPI.genruntimeconfig.cache
+D:\dev\golaubdrywebapi\obj\Debug\net5.0\ref\goLaundryWebAPI.dll
