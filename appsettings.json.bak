@@ -8,7 +8,6 @@
   },
   "AllowedHosts": "*",
   "ConnectionStrings": {
-    "laundryDb": "Data Source=localhost;Initial Catalog=laundryDB;User Id=sa;Password=Gerr@rd12345;"
   },
   "JWTSettings": {
     "Key": "laundry@@laundry@@123",
